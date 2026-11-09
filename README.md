@@ -95,12 +95,24 @@ I enjoy understanding how software works beneath the surface — from user inter
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=qvianp&show_icons=true&hide_border=true&bg_color=101321&title_color=C4B5FD&icon_color=93C5FD&text_color=D5D8E8&ring_color=B9A7FF" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qvianp&layout=compact&hide_border=true&bg_color=101321&title_color=C4B5FD&text_color=D5D8E8" height="165" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=qvianp&show_icons=true&hide_border=true&bg_color=101321&title_color=C4B5FD&icon_color=93C5FD&text_color=D5D8E8&ring_color=B9A7FF"
+  alt="Viana's GitHub statistics"
+  width="49%"
+/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=qvianp&layout=compact&hide_border=true&bg_color=101321&title_color=C4B5FD&text_color=D5D8E8"
+  alt="Most used programming languages"
+  width="49%"
+/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=qvianp&bg_color=101321&color=C4B5FD&line=93C5FD&point=E8E0FF&area=true&hide_border=true" width="100%" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=qvianp&bg_color=101321&color=C4B5FD&line=93C5FD&point=E8E0FF&area=true&hide_border=true"
+  alt="GitHub contribution activity graph"
+  width="100%"
+/>
 
 </div>
 
