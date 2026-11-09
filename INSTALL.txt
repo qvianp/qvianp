@@ -1,0 +1,11 @@
+# Viana GitHub Profile — Midnight Lavender
+
+1. Open your `qvianp/qvianp` repository.
+2. Upload `README.md` to the repository root, replacing the old README.
+3. Upload the complete `assets` folder, keeping both GIF files inside it.
+4. Commit the changes.
+
+The README uses animated local GIF assets and external skill-icon/stat services.
+No project showcase is included.
+
+If a skill icon does not render, check the Skill Icons service or remove that icon from the URL.
